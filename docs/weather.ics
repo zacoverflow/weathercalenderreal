@@ -9,211 +9,212 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:weather-20261119@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
+DTSTAMP:20261118T190809Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
-SUMMARY:16-23° | Wind up to 24 km/h NE | Rain 0%
-DESCRIPTION:Mosman: Overcast\nTemp 16° to 23°\nWind up to 24 km/h NE\, gu
- sts up to 54 km/h\nRain 0%\n\nThrough the day:\n06:00  16°  wind 11 N (gu
- st 19)  rain 0% 0.0mm\n09:00  21°  wind 19 NE (gust 42)  rain 0% 0.0mm\n1
- 2:00  23°  wind 22 NE (gust 49)  rain 0% 0.0mm\n15:00  23°  wind 24 NE (
- gust 53)  rain 0% 0.0mm\n18:00  22°  wind 22 NE (gust 52)  rain 0% 0.0mm\
- n21:00  20°  wind 21 NE (gust 41)  rain 0% 0.0mm\n\nData: Open-Meteo.com
+SUMMARY:17-23° | Wind up to 24 km/h NE | Rain 0%
+DESCRIPTION:Mosman: Overcast\nTemp 17° to 23°\nWind up to 24 km/h NE\, gu
+ sts up to 53 km/h\nRain 0%\n\nThrough the day:\n06:00  17°  wind 11 NNE (
+ gust 20)  rain 0% 0.0mm\n09:00  22°  wind 20 NE (gust 43)  rain 0% 0.0mm\
+ n12:00  23°  wind 21 NE (gust 49)  rain 0% 0.0mm\n15:00  23°  wind 24 NE
+  (gust 52)  rain 0% 0.0mm\n18:00  22°  wind 22 NE (gust 51)  rain 0% 0.0m
+ m\n21:00  20°  wind 21 NE (gust 43)  rain 0% 0.0mm\n\nData: Open-Meteo.co
+ m
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:weather-20261120@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
+DTSTAMP:20261118T190809Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:18-24° | Wind up to 22 km/h NNE | Rain 54%
-DESCRIPTION:Mosman: Overcast\nTemp 18° to 24°\nWind up to 22 km/h NNE\, g
- usts up to 44 km/h\nRain 54%\n\nThrough the day:\n06:00  18°  wind 10 N (
- gust 19)  rain 0% 0.0mm\n09:00  20°  wind 10 NNE (gust 23)  rain 0% 0.0mm
- \n12:00  22°  wind 8 NE (gust 21)  rain 0% 0.0mm\n15:00  24°  wind 15 NE
-  (gust 35)  rain 20% 0.0mm\n18:00  22°  wind 19 NE (gust 41)  rain 54% 0.
- 0mm\n21:00  21°  wind 22 NNE (gust 43)  rain 46% 0.0mm\n\nData: Open-Mete
- o.com
+SUMMARY:18-24° | Wind up to 19 km/h NNE | Rain 37% (1.0 mm)
+DESCRIPTION:Mosman: Drizzle\nTemp 18° to 24°\nWind up to 19 km/h NNE\, gu
+ sts up to 41 km/h\nRain 37% (1.0 mm)\n\nThrough the day:\n06:00  18°  win
+ d 11 NNE (gust 21)  rain 0% 0.0mm\n09:00  22°  wind 10 NE (gust 24)  rain
+  1% 0.0mm\n12:00  24°  wind 15 NE (gust 35)  rain 2% 0.0mm\n15:00  24°  
+ wind 18 NE (gust 40)  rain 11% 0.0mm\n18:00  22°  wind 18 NE (gust 38)  r
+ ain 33% 0.2mm\n21:00  21°  wind 18 NNE (gust 38)  rain 37% 0.0mm\n\nData:
+  Open-Meteo.com
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:weather-20261121@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
+DTSTAMP:20261118T190809Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-SUMMARY:19-27° | Wind up to 22 km/h NNE | Rain 65% (1.5 mm)
-DESCRIPTION:Mosman: Light drizzle\nTemp 19° to 27°\nWind up to 22 km/h NN
- E\, gusts up to 51 km/h\nRain 65% (1.5 mm)\n\nThrough the day:\n06:00  19
- °  wind 10 N (gust 21)  rain 38% 0.0mm\n09:00  23°  wind 15 N (gust 32) 
-  rain 29% 0.0mm\n12:00  27°  wind 14 NE (gust 34)  rain 38% 0.0mm\n15:00 
-  26°  wind 22 NE (gust 51)  rain 64% 0.0mm\n18:00  23°  wind 19 NE (gust
-  44)  rain 46% 0.1mm\n21:00  22°  wind 17 NNE (gust 35)  rain 4% 0.0mm\n\
- nData: Open-Meteo.com
+SUMMARY:19-27° | Wind up to 21 km/h NNE | Rain 69% (3.6 mm)
+DESCRIPTION:Mosman: Heavy drizzle\nTemp 19° to 27°\nWind up to 21 km/h NN
+ E\, gusts up to 49 km/h\nRain 69% (3.6 mm)\n\nThrough the day:\n06:00  19
+ °  wind 7 N (gust 14)  rain 39% 0.2mm\n09:00  21°  wind 16 NNE (gust 35)
+   rain 22% 0.0mm\n12:00  26°  wind 15 NE (gust 36)  rain 13% 0.0mm\n15:00
+   24°  wind 21 NE (gust 49)  rain 52% 0.6mm\n18:00  24°  wind 18 NNE (gu
+ st 41)  rain 55% 0.1mm\n21:00  22°  wind 14 NNE (gust 30)  rain 6% 0.0mm\
+ n\nData: Open-Meteo.com
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:weather-20261122@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
+DTSTAMP:20261118T190809Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-SUMMARY:18-28° | Wind up to 25 km/h NNE | Rain 42% (0.3 mm)
-DESCRIPTION:Mosman: Light drizzle\nTemp 18° to 28°\nWind up to 25 km/h NN
- E\, gusts up to 55 km/h\nRain 42% (0.3 mm)\n\nThrough the day:\n06:00  18
- °  wind 7 N (gust 12)  rain 0% 0.0mm\n09:00  25°  wind 5 NNE (gust 16)  
- rain 0% 0.0mm\n12:00  28°  wind 16 NE (gust 38)  rain 16% 0.1mm\n15:00  2
- 6°  wind 25 NE (gust 55)  rain 42% 0.0mm\n18:00  25°  wind 24 NE (gust 5
- 4)  rain 25% 0.0mm\n21:00  22°  wind 22 NNE (gust 50)  rain 3% 0.0mm\n\nD
- ata: Open-Meteo.com
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:weather-20261123@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:20-30° | Wind up to 18 km/h NNW | Rain 77% (4.5 mm)
-DESCRIPTION:Mosman: Drizzle\nTemp 20° to 30°\nWind up to 18 km/h NNW\, gu
- sts up to 44 km/h\nRain 77% (4.5 mm)\n\nThrough the day:\n06:00  26°  win
- d 18 NNW (gust 35)  rain 4% 0.0mm\n09:00  27°  wind 17 NNW (gust 38)  rai
- n 14% 0.1mm\n12:00  27°  wind 11 NNW (gust 36)  rain 44% 0.8mm\n15:00  25
- °  wind 7 NNW (gust 31)  rain 74% 0.2mm\n18:00  25°  wind 14 NNW (gust 3
- 6)  rain 75% 0.4mm\n21:00  22°  wind 17 NNW (gust 38)  rain 68% 0.0mm\n\n
+SUMMARY:19-29° | Wind up to 26 km/h NNE | Rain 61% (0.4 mm)
+DESCRIPTION:Mosman: Light drizzle\nTemp 19° to 29°\nWind up to 26 km/h NN
+ E\, gusts up to 53 km/h\nRain 61% (0.4 mm)\n\nThrough the day:\n06:00  19
+ °  wind 6 N (gust 11)  rain 0% 0.0mm\n09:00  26°  wind 2 NNE (gust 12)  
+ rain 0% 0.0mm\n12:00  28°  wind 16 NE (gust 38)  rain 23% 0.1mm\n15:00  2
+ 6°  wind 25 NE (gust 53)  rain 54% 0.0mm\n18:00  25°  wind 25 NNE (gust 
+ 53)  rain 12% 0.0mm\n21:00  23°  wind 24 NNE (gust 52)  rain 0% 0.0mm\n\n
  Data: Open-Meteo.com
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:weather-20261124@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:18-22° | Wind up to 26 km/h SSE | Rain 68% (1.5 mm)
-DESCRIPTION:Mosman: Light drizzle\nTemp 18° to 22°\nWind up to 26 km/h SS
- E\, gusts up to 52 km/h\nRain 68% (1.5 mm)\n\nThrough the day:\n06:00  19
- °  wind 21 S (gust 49)  rain 17% 0.1mm\n09:00  19°  wind 21 SSE (gust 47
- )  rain 42% 0.0mm\n12:00  20°  wind 22 SSE (gust 50)  rain 67% 0.1mm\n15:
- 00  21°  wind 22 SE (gust 52)  rain 68% 0.0mm\n18:00  20°  wind 18 SE (g
- ust 45)  rain 63% 0.0mm\n21:00  20°  wind 14 SE (gust 43)  rain 56% 0.0mm
- \n\nData: Open-Meteo.com
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:weather-20261125@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:18-21° | Wind up to 18 km/h ESE | Rain 49% (0.6 mm)
-DESCRIPTION:Mosman: Light drizzle\nTemp 18° to 21°\nWind up to 18 km/h ES
- E\, gusts up to 45 km/h\nRain 49% (0.6 mm)\n\nThrough the day:\n06:00  19
- °  wind 15 ESE (gust 32)  rain 35% 0.0mm\n09:00  20°  wind 16 ESE (gust 
- 37)  rain 29% 0.0mm\n12:00  20°  wind 17 E (gust 42)  rain 23% 0.0mm\n15:
- 00  21°  wind 17 E (gust 45)  rain 20% 0.0mm\n18:00  20°  wind 16 E (gus
- t 45)  rain 18% 0.0mm\n21:00  20°  wind 11 E (gust 42)  rain 19% 0.0mm\n\
- nData: Open-Meteo.com
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:weather-20261126@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-SUMMARY:18-22° | Wind up to 12 km/h ESE | Rain 39%
-DESCRIPTION:Mosman: Overcast\nTemp 18° to 22°\nWind up to 12 km/h ESE\, g
- usts up to 35 km/h\nRain 39%\n\nThrough the day:\n06:00  18°  wind 6 E (g
- ust 17)  rain 21% 0.0mm\n09:00  20°  wind 8 ESE (gust 25)  rain 27% 0.0mm
- \n12:00  22°  wind 10 SE (gust 32)  rain 33% 0.0mm\n15:00  22°  wind 12 
- SE (gust 35)  rain 38% 0.0mm\n18:00  22°  wind 10 SE (gust 35)  rain 37% 
- 0.0mm\n21:00  20°  wind 4 ESE (gust 31)  rain 27% 0.0mm\n\nData: Open-Met
- eo.com
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:weather-20261127@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-SUMMARY:18-25° | Wind up to 19 km/h NE | Rain 39%
-DESCRIPTION:Mosman: Fog\nTemp 18° to 25°\nWind up to 19 km/h NE\, gusts u
- p to 46 km/h\nRain 39%\n\nThrough the day:\n06:00  19°  wind 6 NNE (gust 
- 16)  rain 12% 0.0mm\n09:00  22°  wind 10 NE (gust 26)  rain 22% 0.0mm\n12
- :00  25°  wind 14 NE (gust 36)  rain 32% 0.0mm\n15:00  24°  wind 18 NE (
- gust 43)  rain 38% 0.0mm\n18:00  23°  wind 19 NE (gust 46)  rain 37% 0.0m
- m\n21:00  22°  wind 18 NE (gust 45)  rain 27% 0.0mm\n\nData: Open-Meteo.c
- om
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:weather-20261128@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-SUMMARY:18-27° | Wind up to 16 km/h NE | Rain 58% (13.2 mm)
-DESCRIPTION:Mosman: Light showers\nTemp 18° to 27°\nWind up to 16 km/h NE
- \, gusts up to 41 km/h\nRain 58% (13.2 mm)\n\nThrough the day:\n06:00  20
- °  wind 6 NNE (gust 29)  rain 12% 0.0mm\n09:00  25°  wind 6 ENE (gust 24
- )  rain 17% 0.0mm\n12:00  27°  wind 8 ENE (gust 24)  rain 29% 0.1mm\n15:0
- 0  26°  wind 14 NE (gust 34)  rain 48% 0.1mm\n18:00  24°  wind 15 NNE (g
- ust 38)  rain 58% 2.1mm\n21:00  22°  wind 10 NNE (gust 35)  rain 54% 2.1m
+UID:weather-20261123@mosman-weather-calendar
+DTSTAMP:20261118T190809Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:20-30° | Wind up to 20 km/h NNW | Rain 73% (2.1 mm)
+DESCRIPTION:Mosman: Light drizzle\nTemp 20° to 30°\nWind up to 20 km/h NN
+ W\, gusts up to 48 km/h\nRain 73% (2.1 mm)\n\nThrough the day:\n06:00  25
+ °  wind 17 NNW (gust 32)  rain 4% 0.0mm\n09:00  28°  wind 18 NW (gust 40
+ )  rain 15% 0.0mm\n12:00  30°  wind 13 NW (gust 37)  rain 46% 0.1mm\n15:0
+ 0  29°  wind 14 NNW (gust 38)  rain 70% 0.2mm\n18:00  27°  wind 18 NNW (
+ gust 46)  rain 69% 0.4mm\n21:00  23°  wind 19 NW (gust 38)  rain 50% 0.0m
  m\n\nData: Open-Meteo.com
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:weather-20261129@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:16-33° | Wind up to 20 km/h WNW | Rain 57% (9.0 mm)
-DESCRIPTION:Mosman: Light showers\nTemp 16° to 33°\nWind up to 20 km/h WN
- W\, gusts up to 89 km/h\nRain 57% (9.0 mm)\n\nThrough the day:\n06:00  21
- °  wind 20 NNW (gust 39)  rain 36% 0.0mm\n09:00  27°  wind 17 NNW (gust 
- 38)  rain 35% 0.0mm\n12:00  30°  wind 10 NW (gust 40)  rain 40% 1.3mm\n15
- :00  27°  wind 8 SW (gust 48)  rain 52% 1.3mm\n18:00  23°  wind 15 S (gu
- st 61)  rain 56% 0.1mm\n21:00  19°  wind 19 S (gust 84)  rain 45% 0.1mm\n
- \nData: Open-Meteo.com
+UID:weather-20261124@mosman-weather-calendar
+DTSTAMP:20261118T190809Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:17-23° | Wind up to 23 km/h SSE | Rain 76% (4.2 mm)
+DESCRIPTION:Mosman: Light drizzle\nTemp 17° to 23°\nWind up to 23 km/h SS
+ E\, gusts up to 47 km/h\nRain 76% (4.2 mm)\n\nThrough the day:\n06:00  20
+ °  wind 17 SSE (gust 42)  rain 35% 0.2mm\n09:00  20°  wind 18 SSE (gust 
+ 41)  rain 54% 0.4mm\n12:00  20°  wind 20 SSE (gust 46)  rain 76% 0.2mm\n1
+ 5:00  20°  wind 20 SE (gust 44)  rain 72% 0.3mm\n18:00  19°  wind 19 SE 
+ (gust 46)  rain 61% 0.1mm\n21:00  19°  wind 15 SE (gust 36)  rain 57% 0.2
+ mm\n\nData: Open-Meteo.com
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:weather-20261130@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
-SUMMARY:13-19° | Wind up to 18 km/h SSE | Rain 37%
-DESCRIPTION:Mosman: Overcast\nTemp 13° to 19°\nWind up to 18 km/h SSE\, g
- usts up to 85 km/h\nRain 37%\n\nThrough the day:\n06:00  16°  wind 7 SSW 
- (gust 37)  rain 30% 0.0mm\n09:00  18°  wind 12 S (gust 39)  rain 35% 0.0m
- m\n12:00  19°  wind 15 SSE (gust 41)  rain 37% 0.0mm\n15:00  19°  wind 1
- 3 SE (gust 40)  rain 32% 0.0mm\n18:00  18°  wind 12 E (gust 38)  rain 28%
-  0.0mm\n21:00  17°  wind 8 ENE (gust 35)  rain 24% 0.0mm\n\nData: Open-Me
+UID:weather-20261125@mosman-weather-calendar
+DTSTAMP:20261118T190809Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:17-22° | Wind up to 16 km/h E | Rain 49% (4.8 mm)
+DESCRIPTION:Mosman: Light drizzle\nTemp 17° to 22°\nWind up to 16 km/h E\
+ , gusts up to 41 km/h\nRain 49% (4.8 mm)\n\nThrough the day:\n06:00  18° 
+  wind 14 ESE (gust 26)  rain 35% 0.2mm\n09:00  19°  wind 14 ESE (gust 30)
+   rain 29% 0.2mm\n12:00  20°  wind 14 E (gust 34)  rain 23% 0.2mm\n15:00 
+  21°  wind 16 ENE (gust 39)  rain 20% 0.2mm\n18:00  21°  wind 16 ENE (gu
+ st 41)  rain 18% 0.0mm\n21:00  20°  wind 13 ENE (gust 40)  rain 19% 0.0mm
+ \n\nData: Open-Meteo.com
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:weather-20261126@mosman-weather-calendar
+DTSTAMP:20261118T190809Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:17-23° | Wind up to 14 km/h ENE | Rain 39%
+DESCRIPTION:Mosman: Overcast\nTemp 17° to 23°\nWind up to 14 km/h ENE\, g
+ usts up to 36 km/h\nRain 39%\n\nThrough the day:\n06:00  18°  wind 6 ENE 
+ (gust 22)  rain 21% 0.0mm\n09:00  20°  wind 9 E (gust 27)  rain 27% 0.0mm
+ \n12:00  22°  wind 12 E (gust 31)  rain 33% 0.0mm\n15:00  22°  wind 14 E
+ NE (gust 34)  rain 38% 0.0mm\n18:00  22°  wind 14 ENE (gust 35)  rain 37%
+  0.0mm\n21:00  21°  wind 13 NE (gust 35)  rain 27% 0.0mm\n\nData: Open-Me
  teo.com
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:weather-20261127@mosman-weather-calendar
+DTSTAMP:20261118T190809Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:19-25° | Wind up to 22 km/h NE | Rain 39%
+DESCRIPTION:Mosman: Overcast\nTemp 19° to 25°\nWind up to 22 km/h NE\, gu
+ sts up to 51 km/h\nRain 39%\n\nThrough the day:\n06:00  20°  wind 8 ENE (
+ gust 23)  rain 12% 0.0mm\n09:00  22°  wind 12 NE (gust 30)  rain 22% 0.0m
+ m\n12:00  23°  wind 16 NE (gust 37)  rain 32% 0.0mm\n15:00  23°  wind 20
+  NE (gust 45)  rain 38% 0.0mm\n18:00  23°  wind 22 NE (gust 50)  rain 37%
+  0.0mm\n21:00  21°  wind 20 NE (gust 51)  rain 27% 0.0mm\n\nData: Open-Me
+ teo.com
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:weather-20261128@mosman-weather-calendar
+DTSTAMP:20261118T190809Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:18-26° | Wind up to 17 km/h NNE | Rain 58% (2.4 mm)
+DESCRIPTION:Mosman: Light drizzle\nTemp 18° to 26°\nWind up to 17 km/h NN
+ E\, gusts up to 48 km/h\nRain 58% (2.4 mm)\n\nThrough the day:\n06:00  20
+ °  wind 8 N (gust 35)  rain 12% 0.0mm\n09:00  24°  wind 10 NNE (gust 30)
+   rain 17% 0.0mm\n12:00  26°  wind 12 NE (gust 29)  rain 29% 0.3mm\n15:00
+   25°  wind 15 NE (gust 35)  rain 48% 0.3mm\n18:00  24°  wind 13 NNE (gu
+ st 38)  rain 58% 0.1mm\n21:00  22°  wind 7 N (gust 36)  rain 54% 0.1mm\n\
+ nData: Open-Meteo.com
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:weather-20261129@mosman-weather-calendar
+DTSTAMP:20261118T190809Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:18-22° | Wind up to 25 km/h S | Rain 57% (9.6 mm)
+DESCRIPTION:Mosman: Drizzle\nTemp 18° to 22°\nWind up to 25 km/h S\, gust
+ s up to 62 km/h\nRain 57% (9.6 mm)\n\nThrough the day:\n06:00  20°  wind 
+ 0 E (gust 17)  rain 36% 0.9mm\n09:00  20°  wind 16 S (gust 39)  rain 35% 
+ 0.9mm\n12:00  20°  wind 25 S (gust 55)  rain 40% 0.5mm\n15:00  20°  wind
+  22 S (gust 60)  rain 52% 0.5mm\n18:00  20°  wind 21 S (gust 62)  rain 56
+ % 0.2mm\n21:00  19°  wind 23 S (gust 59)  rain 45% 0.2mm\n\nData: Open-Me
+ teo.com
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:weather-20261130@mosman-weather-calendar
+DTSTAMP:20261118T190809Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:17-19° | Wind up to 38 km/h S | Rain 37% (14.4 mm)
+DESCRIPTION:Mosman: Heavy drizzle\nTemp 17° to 19°\nWind up to 38 km/h S\
+ , gusts up to 82 km/h\nRain 37% (14.4 mm)\n\nThrough the day:\n06:00  19°
+   wind 30 S (gust 61)  rain 30% 0.3mm\n09:00  19°  wind 36 S (gust 72)  r
+ ain 35% 0.3mm\n12:00  19°  wind 37 S (gust 80)  rain 37% 1.1mm\n15:00  18
+ °  wind 33 S (gust 82)  rain 32% 1.1mm\n18:00  17°  wind 30 S (gust 78) 
+  rain 28% 0.8mm\n21:00  18°  wind 29 S (gust 69)  rain 24% 0.8mm\n\nData:
+  Open-Meteo.com
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:weather-20261201@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
+DTSTAMP:20261118T190809Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:13-24° | Wind up to 19 km/h NE | Rain 25%
-DESCRIPTION:Mosman: Overcast\nTemp 13° to 24°\nWind up to 19 km/h NE\, gu
- sts up to 42 km/h\nRain 25%\n\nThrough the day:\n06:00  14°  wind 6 W (gu
- st 16)  rain 24% 0.0mm\n09:00  19°  wind 8 NE (gust 29)  rain 25% 0.0mm\n
- 12:00  23°  wind 17 ENE (gust 39)  rain 25% 0.0mm\n15:00  24°  wind 19 N
- E (gust 42)  rain 25% 0.0mm\n18:00  24°  wind 14 NE (gust 42)  rain 23% 0
- .0mm\n21:00  21°  wind 4 NNW (gust 40)  rain 20% 0.0mm\n\nData: Open-Mete
- o.com
+SUMMARY:16-20° | Wind up to 32 km/h S | Rain 25% (2.4 mm)
+DESCRIPTION:Mosman: Light drizzle\nTemp 16° to 20°\nWind up to 32 km/h S\
+ , gusts up to 73 km/h\nRain 25% (2.4 mm)\n\nThrough the day:\n06:00  18° 
+  wind 32 S (gust 67)  rain 24% 0.1mm\n09:00  19°  wind 31 S (gust 71)  ra
+ in 25% 0.1mm\n12:00  19°  wind 31 SSE (gust 73)  rain 25% 0.1mm\n15:00  1
+ 9°  wind 30 S (gust 70)  rain 25% 0.1mm\n18:00  19°  wind 29 S (gust 67)
+   rain 23% 0.2mm\n21:00  18°  wind 28 SSE (gust 66)  rain 20% 0.2mm\n\nDa
+ ta: Open-Meteo.com
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:weather-20261202@mosman-weather-calendar
-DTSTAMP:20261118T132624Z
+DTSTAMP:20261118T190809Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-SUMMARY:16-22° | Wind up to 30 km/h S | Rain 27% (1.8 mm)
-DESCRIPTION:Mosman: Light drizzle\nTemp 16° to 22°\nWind up to 30 km/h S\
- , gusts up to 67 km/h\nRain 27% (1.8 mm)\n\nThrough the day:\n06:00  18° 
-  wind 14 SSW (gust 38)  rain 16% 0.0mm\n09:00  21°  wind 10 S (gust 32)  
- rain 18% 0.0mm\n12:00  22°  wind 12 SSE (gust 35)  rain 21% 0.3mm\n15:00 
-  20°  wind 24 SSE (gust 54)  rain 25% 0.3mm\n18:00  18°  wind 30 SSE (gu
- st 66)  rain 26% 0.0mm\n21:00  18°  wind 25 SSE (gust 66)  rain 20% 0.0mm
- \n\nData: Open-Meteo.com
+SUMMARY:15-20° | Wind up to 27 km/h SSE | Rain 27% (3.0 mm)
+DESCRIPTION:Mosman: Light drizzle\nTemp 15° to 20°\nWind up to 27 km/h SS
+ E\, gusts up to 63 km/h\nRain 27% (3.0 mm)\n\nThrough the day:\n06:00  17
+ °  wind 25 SSE (gust 56)  rain 16% 0.1mm\n09:00  18°  wind 25 SSE (gust 
+ 58)  rain 18% 0.1mm\n12:00  19°  wind 24 SSE (gust 59)  rain 21% 0.2mm\n1
+ 5:00  19°  wind 23 SSE (gust 57)  rain 25% 0.2mm\n18:00  18°  wind 18 SS
+ E (gust 53)  rain 26% 0.1mm\n21:00  17°  wind 10 SE (gust 48)  rain 20% 0
+ .1mm\n\nData: Open-Meteo.com
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
